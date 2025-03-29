@@ -6,7 +6,7 @@ This project simulates sensor data from industrial equipment and uses a combinat
 
 ---
 
-## 📊 Features
+## Features
 
 - ✅ Sensor Data Simulation (Temperature, Vibration, Pressure)
 - 📈 Time Series Forecasting with Facebook Prophet
@@ -17,12 +17,12 @@ This project simulates sensor data from industrial equipment and uses a combinat
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 [ Sensor Simulation ] → [ Forecast Model (Prophet) ] → [ Anomaly Detector ] → [ Slack/Email Alerts ] → [ DAG Orchestration ]
 
 ---
 
-## 🧪 Project Structure
+## Project Structure
 
 ```bash
 ai-predictive-maintenance/
