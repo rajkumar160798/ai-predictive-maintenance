@@ -9,7 +9,7 @@ SLACK_WEBHOOK = "https://hooks.slack.com/services/T08LKGMCF5W/B08KGKU3ZTR/xaDZTi
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 EMAIL_USER = "rk9618289692@gmail.com"
-EMAIL_PASS = "sczp azhu ezop zyiy"
+EMAIL_PASS = "**** **** ****"
 EMAIL_TO = "myakalarajkumar1998@gmail.com"
 
 def send_slack_alert(message):
